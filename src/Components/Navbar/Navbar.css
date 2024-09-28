@@ -1,0 +1,44 @@
+/* .navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: aqua;
+    height: 80px;
+    width: 100%;
+}
+.navbar-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    width: 80%;
+    
+}
+.nav-signin-btn{
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signin-btn{
+    border: solid black 2px;
+    border-radius: 15px;
+    height: 40px;
+    width: 80%;
+    font-size: 18px;
+}
+.nav-items-container-1, .nav-items-container-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 20%;
+    font-size: 18px;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    font-size: 22px;
+    font-weight: 700;
+} */
