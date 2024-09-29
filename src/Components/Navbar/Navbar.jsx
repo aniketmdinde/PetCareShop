@@ -1,10 +1,10 @@
 import React from 'react'
-import './Navbar.css'
+// import './Navbar.css'
 import Logo from './../../assets/Logo.png'
 
 const Navbar = () => {
   return (
-    <nav className="navbar-container w-full h-1/4 grid grid-cols-[10fr_1fr] place-items-center pl-32 bg-red-300">
+    <nav className="navbar-container w-full h-24 grid grid-cols-[10fr_1fr] place-items-center pl-32 bg-red-300 box-border">
         <div className="navbar-content grid grid-cols-[5fr_1fr_5fr] place-items-center w-5/6">
           <div className="nav-items-container-1 w-1/2 flex justify-between items-center">
             <div className="navbar-items">Home</div>
