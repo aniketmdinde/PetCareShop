@@ -10,7 +10,7 @@ import Product from './Pages/Product.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<App/>}>
-      <Route path='' element={<Home/>} />
+      <Route path='/Home' element={<Home/>} />
       <Route path='product' element={<Product/>} />
     </Route>
   )
