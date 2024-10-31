@@ -1,8 +1,11 @@
 import React from 'react'
+import MultipleAnimations from '../Components/Animations/MultipleAnimations'
 
 function Home() {
   return (
-    <div>Home</div>
+    <>
+      <MultipleAnimations />
+    </>
   )
 }
 
