@@ -1,0 +1,57 @@
+.filter{
+    height: 3em;
+    background: #FFD7D5;
+    border-bottom: 2px solid #E57373;
+    margin-bottom: 2em;
+    display: flex;
+    align-items: center;
+}
+.filterbtn{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid #E57373;
+    background-color: transparent;
+    border-radius: 0.5em;
+    margin-left: 10%;
+    width: 10%;
+    height: 2.5em;
+}
+.shoplogo{
+    width: 80%;
+    margin-left: 10%;
+}
+.shoplogoimg{
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 20em;
+    border-radius: 2.5em;
+    margin-bottom: 2em;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: 
+    repeat(auto-fit, 200px);
+    gap: 15px;
+    justify-content: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 2em;
+}
+
+.product-card{
+    background-color:#FFD7D5;
+    padding: 0.5em;
+    border: solid #E57373 2px;
+    text-align: center;
+    border-radius: 15px;
+}
+.product{
+    width: 90%;
+    border-radius: 15px;
+    margin-top: 0.3em;
+}
+.headptext{
+    font-size: large;
+}

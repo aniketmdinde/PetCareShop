@@ -76,7 +76,7 @@ body{
     width: 80%;
     margin-left: 20%;
     position: relative;
-    margin-top: 100em;
+    margin-top: 105em;
     z-index: 1;
     padding-bottom: 5em;
 }
@@ -98,4 +98,8 @@ body{
     margin-top: 20em;
     margin-left: 35%;
     margin-bottom: 2em;
+}
+.conehead1, .conehead2, .conehead3{
+    font-size: 1.5em;
+    font-weight: 700;
 }
