@@ -59,6 +59,7 @@ const Shop = () => {
               <img className='product' src={product.image} alt={product.name} />
               <h1 className='headptext'>{product.name}</h1>
               <p>Price: ${product.price}</p>
+              <button className="buy">Buy</button>
             </div>
           ))}
         </div>
